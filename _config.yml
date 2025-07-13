@@ -4,8 +4,8 @@ email: rony.vonn977@gmail.com
 timezone: UTC-3
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: /assets/images/logo.png
+favicon: /assets/images/logo.png
 author: Rony Vonn Santos
 paginate: 30
 disqus: 'ronycosta01'
