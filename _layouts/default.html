@@ -43,7 +43,7 @@ gtag('config', '{{site.ganalytics}}');
   <!-- Logo (mantida a estrutura original) -->
   <a class="navbar-brand text-dark font-weight-bold big d-flex align-items-center" href="{{site.baseurl}}/">
     {% if site.logo %}
-      <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" alt="logo" style="height: 40px;">
+      <img class="mr-2" src="{{site.baseurl}}{{site.logo}}" alt="logo" style="height: 40px;">
     {% else %}
       <span class="d-none d-md-inline-block">{{ site.title }}</span>
     {% endif %}
