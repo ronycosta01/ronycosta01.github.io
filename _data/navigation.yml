@@ -3,18 +3,18 @@
 topmenu:
 
 - title: Home
-  url: ""
+  url: "/"
 
 - title: Currículo
-  url: curriculo
+  url: "/curriculo/"
 
 # Footer Menu
 footermenu:
 
 - title: Home
-  url: ""
+  url: "/"
 
 - title: Contact
-  url: "contact/"
+  url: "/contact/"
 
   external: true
