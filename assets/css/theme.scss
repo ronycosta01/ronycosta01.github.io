@@ -610,3 +610,21 @@ span.navigation:before {
     transition: all 0.3s;
     opacity: .8;
 }
+
+/* Ajuste fino para alinhar logo, texto e ícones no topo */
+.navbar-brand img {
+  height: 40px;
+  object-fit: contain;
+}
+
+.social-icon svg {
+  width: 20px;
+  height: 20px;
+  color: #444;
+  transition: transform 0.2s ease;
+}
+
+.social-icon:hover svg {
+  transform: scale(1.1);
+  color: #007bff; /* azul leve no hover */
+}
