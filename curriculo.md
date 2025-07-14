@@ -4,84 +4,103 @@ title: Currículo
 permalink: /curriculo/
 ---
 
-Meu Currículo
 
-Resumo
+### **Resumo**
 
-Sou um profissional com experiência em [sua área de atuação], apaixonado por [seus interesses]. Busco constantemente novos desafios e oportunidades para aplicar e expandir meus conhecimentos.
+Sou um profissional com experiência em Suporte ao usuário, apaixonado por Análise de dados. Busco constantemente novos desafios e oportunidades para aplicar e expandir meus conhecimentos.
 
-Experiência Profissional
+### **Experiência Profissional**
 
-[Seu Cargo] - [Nome da Empresa]
+**Estagiário (Suporte ao usuário) - BRBCARD**
 
-Período: [Mês/Ano de Início] – [Mês/Ano de Fim ou "Atual"]
-
-•
-[Descreva suas principais responsabilidades e conquistas. Use verbos de ação e quantifique resultados sempre que possível.]
+Período: Agosto 2024 – Atual
 
 •
-[Exemplo: Desenvolvi e implementei soluções de software que resultaram em uma redução de 15% no tempo de processamento de dados.]
+Prestar suporte técnico presencial ou remotamente;
 
 •
-[Exemplo: Liderei uma equipe de 3 desenvolvedores no projeto X, garantindo a entrega dentro do prazo e orçamento.]
-
-[Cargo Anterior] - [Empresa Anterior]
-
-Período: [Mês/Ano de Início] – [Mês/Ano de Fim]
+Registrar chamados e acompanhar sua resolução;
 
 •
-[Descreva suas responsabilidades e conquistas relevantes.]
-
-Educação
-
-[Nome do Curso] - [Nome da Instituição de Ensino]
-
-Período: [Ano de Início] – [Ano de Conclusão]
+Instalar, configurar e fazer pequenas manutenção de computadores, impressoras e periféricos;
 
 •
-[Mencione projetos relevantes, honras ou especializações, se houver.]
+Instalação e configuração de softwares;
 
-Habilidades
-
-•
-Linguagens de Programação: [Python, JavaScript, Java, C#, etc.]
+• 
+Criar e manter documentações técnicas, manuais e relatórios;
 
 •
-Frameworks/Bibliotecas: [React, Angular, Vue.js, Flask, Django, Node.js, etc.]
+Controle de ativos de TI;
+
+• 
+Atendimento e gestão de chamados.
+
+____________________________________________________________________________________________________
+
+**Aprendiz (Auxiliar administrativo) - BRBCARD**
+
+Período: Maio 2023 – Julho 2024
 
 •
-Bancos de Dados: [SQL, NoSQL, PostgreSQL, MongoDB, etc.]
+Atendimento e gestão de chamados;
 
 •
-Ferramentas/Tecnologias: [Git, Docker, AWS, Azure, Google Cloud, CI/CD, etc.]
+Apoio na prospecção e integração de parceiros;
 
 •
-Metodologias: [Agile, Scrum, Kanban, etc.]
+Relatórios gerenciais;
 
 •
-Idiomas: [Português (Nativo), Inglês (Fluente), etc.]
-
-Projetos (Opcional)
-
-[Nome do Projeto]
+Operar Marketplace (Curtaí, Dux Experience, dentre outros);
 
 •
-Descrição: [Breve descrição do projeto e seu objetivo.]
+Monitorar KPIs.
+
+
+____________________________________________________________________________________________________
+
+### **Educação**
+
+Análise e Desenvolvimento de Sistemas - UNIPLAN
+
+Período: 2024 – Em andamento
 
 •
-Tecnologias: [Tecnologias utilizadas.]
+Desenvolvimento de um sistema para hortifrúti, que envolveu criação de um negócio, estruturação de banco de dados e aplicação de lógica de programação em Python, Java e SQL. Aprendi bastante sobre como pensar soluções de forma analítica e prática.
+
+
+____________________________________________________________________________________________________
+
+### **Habilidades**
 
 •
-Link: [Link para o projeto (GitHub, site, etc.)]
-
-Contato
+Linguagens de Programação: Python, Java.
 
 •
-Email: [Seu Email]
+Frameworks/Bibliotecas: Pandas, Selenium.
 
 •
-LinkedIn: [Seu Perfil do LinkedIn]
+Bancos de Dados: SQL Server, MySQL.
 
 •
-GitHub: [Seu Perfil do GitHub]
+Ferramentas/Tecnologias: Git, PowerBI, Excel. 
 
+•
+Metodologias: Scrum, Kanban.
+
+
+____________________________________________________________________________________________________
+
+### **Contato**
+
+•
+Email: rony.vonn977@gmail.com
+
+•
+LinkedIn: https://www.linkedin.com/in/rony-vonn-costa-603697261/
+
+•
+GitHub: https://github.com/ronycosta01
+
+• Telefone/WhatsApp: 61981779401
