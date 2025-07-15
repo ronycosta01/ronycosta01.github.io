@@ -7,25 +7,104 @@ body {
     margin: 0;
 }
 
-/* Alinha corretamente logo, texto e ícones sociais */
+/* CORREÇÃO DO ALINHAMENTO - VERSÃO SEM ERROS DE SINTAXE */
 
-.navbar .navbar-brand img {
-  height: 32px;
-  margin-bottom: 2px;
+/* Container principal do navbar */
+.navbar .container {
+    display: flex;
+    align-items: center;
 }
 
+.navbar .d-flex.align-items-center.justify-content-between {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    min-height: 60px;
+}
+
+/* Logo e título */
+.navbar .navbar-brand {
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 0 !important;
+    line-height: 1 !important;
+}
+
+.navbar .navbar-brand img {
+    height: 40px !important;
+    margin-right: 8px !important;
+    margin-bottom: 0 !important;
+    vertical-align: middle !important;
+}
+
+.navbar .navbar-brand span {
+    line-height: 1 !important;
+    margin-bottom: 0 !important;
+    vertical-align: middle !important;
+}
+
+/* Container da direita (Networking + ícones sociais) */
+.navbar .d-flex.align-items-center:not(.justify-content-between) {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px;
+    margin-bottom: 0 !important;
+}
+
+/* Texto "Networking" */
 .navbar .text-muted {
-  font-size: 0.9rem;
-  margin-left: 8px;
-  margin-right: 8px;
-  position: relative;
-  top: 1px;
+    font-size: 0.9rem !important;
+    margin: 0 8px !important;
+    line-height: 1 !important;
+    vertical-align: middle !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+/* Ícones sociais */
+.navbar .social-icon {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 4px !important;
+    line-height: 1 !important;
+    vertical-align: middle !important;
+    text-decoration: none;
 }
 
 .navbar .social-icon svg {
-  width: 18px;
-  height: 18px;
-  vertical-align: middle;
-  position: relative;
-  top: 1px;
+    width: 19px !important;
+    height: 19px !important;
+    vertical-align: middle !important;
+    display: block !important;
+}
+
+/* Hover effects para os ícones */
+.navbar .social-icon:hover {
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+}
+
+/* Ajustes responsivos */
+@media (max-width: 768px) {
+    .navbar .d-flex.align-items-center:not(.justify-content-between) {
+        margin-top: 8px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    .navbar .text-muted {
+        font-size: 0.8rem !important;
+        margin: 0 6px !important;
+    }
+    
+    .navbar .social-icon {
+        margin: 0 3px !important;
+    }
+    
+    .navbar .social-icon svg {
+        width: 16px !important;
+        height: 16px !important;
+    }
 }
