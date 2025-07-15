@@ -5,7 +5,7 @@ timezone: UTC-3
 baseurl: ""
 permalink: "/:title/"
 logo: /assets/images/logo.png
-favicon: /assets/images/logo.png
+favicon: /assets/images/favicon.png
 author: Rony Vonn Santos
 paginate: 30
 disqus: 'ronycosta01'

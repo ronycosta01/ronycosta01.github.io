@@ -9,6 +9,8 @@ permalink: /curriculo/
 
 Sou um profissional com experiência em Suporte ao usuário, apaixonado por Análise de dados. Busco constantemente novos desafios e oportunidades para aplicar e expandir meus conhecimentos.
 
+____________________________________________________________________________________________________
+
 ### **Experiência Profissional**
 
 **Estagiário (Suporte ao usuário) - BRBCARD**
