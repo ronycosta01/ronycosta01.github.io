@@ -86,6 +86,23 @@ body {
     transition: opacity 0.2s ease;
 }
 
+.hero-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px; /* opcional, para manter o estilo arredondado */
+  margin-bottom: 2rem;
+}
+
+.post-container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 15px;
+  border-bottom: 1px solid #ccc;
+  text-align: center;
+}
+
 /* Ajustes responsivos */
 @media (max-width: 768px) {
     .navbar .d-flex.align-items-center:not(.justify-content-between) {
