@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 **Estagiário (Suporte ao usuário) - BRBCARD**
 
-Período: Agosto 2024 – Atual
+Período: Agosto 2024 – Julho 2025
 
 •
 Prestar suporte técnico presencial ou remotamente;
