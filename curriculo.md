@@ -4,105 +4,60 @@ title: Currículo
 permalink: /curriculo/
 ---
 
-
 ### **Resumo**
 
-Sou um profissional com experiência em Suporte ao usuário, apaixonado por Análise de dados. Busco constantemente novos desafios e oportunidades para aplicar e expandir meus conhecimentos.
+Sou um profissional com experiência em Suporte ao Usuário e apaixonado por Análise de Dados. Busco constantemente novos desafios e oportunidades para aplicar e expandir meus conhecimentos.
 
-____________________________________________________________________________________________________
+---
 
 ### **Experiência Profissional**
 
-**Estagiário (Suporte ao usuário) - BRBCARD**
+**Estagiário (Suporte ao Usuário) - BRBCARD**  
+Período: agosto de 2024 – julho de 2025
 
-Período: Agosto 2024 – Julho 2025
+• Prestar suporte técnico, presencial ou remotamente;  
+• Registrar chamados e acompanhar sua resolução;  
+• Instalar, configurar e realizar pequenas manutenções em computadores, impressoras e periféricos;  
+• Instalar e configurar softwares;  
+• Criar e manter documentações técnicas, manuais e relatórios;  
+• Controlar ativos de TI;  
+• Atender e gerenciar chamados.
 
-•
-Prestar suporte técnico presencial ou remotamente;
+---
 
-•
-Registrar chamados e acompanhar sua resolução;
+**Aprendiz (Auxiliar Administrativo) - BRBCARD**  
+Período: maio de 2023 – julho de 2024
 
-•
-Instalar, configurar e fazer pequenas manutenção de computadores, impressoras e periféricos;
+• Atender e gerenciar chamados;  
+• Apoiar na prospecção e integração de parceiros;  
+• Elaborar relatórios gerenciais;  
+• Operar marketplaces (Curtaí, Dux Experience, entre outros);  
+• Monitorar KPIs.
 
-•
-Instalação e configuração de softwares;
-
-• 
-Criar e manter documentações técnicas, manuais e relatórios;
-
-•
-Controle de ativos de TI;
-
-• 
-Atendimento e gestão de chamados.
-
-____________________________________________________________________________________________________
-
-**Aprendiz (Auxiliar administrativo) - BRBCARD**
-
-Período: Maio 2023 – Julho 2024
-
-•
-Atendimento e gestão de chamados;
-
-•
-Apoio na prospecção e integração de parceiros;
-
-•
-Relatórios gerenciais;
-
-•
-Operar Marketplace (Curtaí, Dux Experience, dentre outros);
-
-•
-Monitorar KPIs.
-
-
-____________________________________________________________________________________________________
+---
 
 ### **Educação**
 
-Análise e Desenvolvimento de Sistemas - UNIPLAN
+**Análise e Desenvolvimento de Sistemas - UNIPLAN**  
+Período: 2024 – em andamento
 
-Período: 2024 – Em andamento
+• Desenvolvimento de um sistema para hortifrúti, envolvendo a criação de um negócio, a estruturação de banco de dados e a aplicação de lógica de programação em Python, Java e SQL. Durante esse projeto, aprimorei minha capacidade de pensar soluções de forma analítica e prática.
 
-•
-Desenvolvimento de um sistema para hortifrúti, que envolveu criação de um negócio, estruturação de banco de dados e aplicação de lógica de programação em Python, Java e SQL. Aprendi bastante sobre como pensar soluções de forma analítica e prática.
-
-
-____________________________________________________________________________________________________
+---
 
 ### **Habilidades**
 
-•
-Linguagens de Programação: Python, Java.
+• **Linguagens de Programação:** Python, Java.  
+• **Frameworks/Bibliotecas:** Pandas, Selenium.  
+• **Bancos de Dados:** SQL Server, MySQL.  
+• **Ferramentas/Tecnologias:** Git, Power BI, Excel.  
+• **Metodologias:** Scrum, Kanban.
 
-•
-Frameworks/Bibliotecas: Pandas, Selenium.
-
-•
-Bancos de Dados: SQL Server, MySQL.
-
-•
-Ferramentas/Tecnologias: Git, PowerBI, Excel. 
-
-•
-Metodologias: Scrum, Kanban.
-
-
-____________________________________________________________________________________________________
+---
 
 ### **Contato**
 
-•
-Email: rony.vonn977@gmail.com
-
-•
-LinkedIn: https://www.linkedin.com/in/rony-vonn-costa-603697261/
-
-•
-GitHub: https://github.com/ronycosta01
-
-• Telefone/WhatsApp: 61981779401
+• **E-mail:** rony.vonn977@gmail.com  
+• **LinkedIn:** [linkedin.com/in/rony-vonn-costa-603697261](https://www.linkedin.com/in/rony-vonn-costa-603697261/)  
+• **GitHub:** [github.com/ronycosta01](https://github.com/ronycosta01)  
+• **Telefone/WhatsApp:** (61) 98177-9401
