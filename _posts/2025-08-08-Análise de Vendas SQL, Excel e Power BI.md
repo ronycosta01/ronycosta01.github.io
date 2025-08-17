@@ -3,7 +3,7 @@ layout: post
 title: "Análise de Vendas com SQL, Excel e Power BI"
 date: 2025-08-08 18:00:00 -0300
 author: Rony Vonn Santos
-categories: Análise de dados 
+categories: "Análise_de_dados" 
 image: assets/images/post/dash.png
 ---
 
@@ -56,6 +56,7 @@ Repositório oficial dos dados: [Microsoft SQL Server Samples](https://github.co
 
 
 ____________________________________________________________________________________________________
+
 ### **Recursos do Projeto:**
 
 Query utilizada, disponível no GitHub: [Acesse meu GitHub](https://github.com/ronycosta01/An-lise-de-Vendas)
