@@ -6,3 +6,4 @@ vendor
 .gitignore.save
 
 node_modules
+*:Zone.Identifier
