@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 vendor
 .gitignore.save
+
+node_modules
+*:Zone.Identifier

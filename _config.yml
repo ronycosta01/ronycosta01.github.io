@@ -1,25 +1,56 @@
 # OBS: Não criei um novo arquivo chamado _config.yml, pois o mesmo já existia e não é possível criar com o mesmo nome.
-collections:
-  authors:
-    output: true
+title: "Aprendizado contínuo"
+email: rony.vonn977@gmail.com
+timezone: UTC-3
+baseurl: ""
+permalink: "/:title/"
+logo: /assets/images/logo.png
+favicon: assets/images/favicon.ico
+author: Rony Vonn Santos
+paginate: 30
+disqus: 'ronycosta01'
+locale: pt-BR
+lang: pt-BR
+feed_items: 10
+feed_update_period: hourly
+feed_update_frequency: 2
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+sass:
+  sass_dir: _sass
+  style: compressed # Você pode usar 'expanded' durante o desenvolvimento para facilitar a depuração
+  load_paths:
+    - _sass
+    - node_modules # Se você usa npm para dependências
+    - _data # Se você tem arquivos Sass em _data
+    - _includes # Se você tem arquivos Sass em _includes
+    - /home/rony/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/bootstrap-5.3.5/assets/stylesheets # Esta é a linha crucial para o Bootstrap
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  Rony Vonn Santos:
+    name: Rony Vonn Costa Santos
+    display_name: Rony
+    avatar: 'assets/images/sal.png'
+    email: rony.vonn977@gmail.com
+    linkedin: https://www.linkedin.com/in/rony-vonn-costa-603697261/
+    description: "Mostrando meu trabalho, aprendizado constante e paixão por tecnologia."
+
   
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# Social
+social:
+  email: rony.vonn977@gmail.com
+  linkedin: https://www.linkedin.com/in/rony-vonn-costa-603697261/
+  github: https://github.com/ronycosta01
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

@@ -1,8 +1,20 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+# Navegação do Menu:
+
+topmenu:
+
+- title: Home
+  url: "/"
+
+- title: Currículo
+  url: "/curriculo/"
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: "/"
+
+- title: Contact
+  url: "/contact/"
+
+  external: true
