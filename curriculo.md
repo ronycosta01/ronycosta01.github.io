@@ -13,6 +13,7 @@ Sou um profissional com experiência em suporte a sistemas e ao usuário, apaixo
 ### **Experiência Profissional**
 
 **Analista de TI - Tecnicall Engenharia**
+
 Período: setembro de 2025 – o momento
 
 • Prestar suporte funcional e técnico ao ERP TOTVS – Linha RM, atendendo usuários internos e realizando análise inicial de incidentes e demandas;
@@ -58,7 +59,7 @@ Período: maio de 2023 – julho de 2024
 ### **Educação**
 
 **Análise e Desenvolvimento de Sistemas - UNIPLAN**  
-Período: 2024 – em andamento
+Concluído!
 
 • Desenvolvimento de um sistema para hortifrúti, envolvendo a criação de um negócio, a estruturação de banco de dados e a aplicação de lógica de programação em Python, Java e SQL. Durante esse projeto, aprimorei minha capacidade de pensar soluções de forma analítica e prática.
 
@@ -69,7 +70,7 @@ Período: 2024 – em andamento
 • **Linguagens de Programação:** Python, Java.  
 • **Frameworks/Bibliotecas:** Pandas, Selenium.  
 • **Bancos de Dados:** SQL Server, MySQL.  
-• **Ferramentas/Tecnologias:** Git, Power BI, Excel.  
+• **Ferramentas/Tecnologias:** Git, Power BI, Excel, TOTVS RM.  
 • **Metodologias:** Scrum, Kanban.
 
 ---
