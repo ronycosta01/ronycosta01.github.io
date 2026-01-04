@@ -16,12 +16,17 @@ Sou um profissional com experiência em suporte a sistemas e ao usuário, apaixo
 Período: setembro de 2025 – o momento
 
 • Prestar suporte funcional e técnico ao ERP TOTVS – Linha RM, atendendo usuários internos e realizando análise inicial de incidentes e demandas;
+
 • Abrir, acompanhar e intermediar chamados técnicos junto ao fornecedor TOTVS, garantindo resolução dentro dos prazos acordados;
+
 • Administrar usuários, permissões e acessos no Microsoft 365 / Centro de Administração Microsoft, incluindo contas, grupos e políticas básicas;
+
 • Realizar extrações de dados utilizando SQL diretamente no banco do ERP para apoio a análises operacionais e gerenciais;
+
 • Apoiar usuários finais na utilização correta dos sistemas corporativos e boas práticas de TI.
 
 Principais entregas:
+
 • Participação ativa no projeto de migração de e-mails corporativos para o Microsoft 365 (Exchange Online), incluindo apoio no planejamento, execução, validação e suporte pós-migração.
 
 ---
