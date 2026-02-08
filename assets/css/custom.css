@@ -427,3 +427,71 @@ hr {
     text-decoration: none !important;
 }
 
+/* 
+   RESPONSIVIDADE E SIDEBAR
+   ================================================== 
+*/
+
+/* Ajustes para a Sidebar no tema escuro */
+.sidebar {
+    background-color: var(--hover-color);
+    padding: 25px;
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 30px;
+}
+
+.sidebar h5 {
+    color: var(--accent-cyan) !important;
+    font-weight: 700;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Media Query para Tablets e Celulares */
+@media (max-width: 991px) {
+    /* No mobile, as margens de 15-20% são muito grandes, vamos reduzir para 5% */
+    .container, .hero-banner, .post-container {
+        max-width: 95% !important;
+    }
+
+    /* Ajuste do cabeçalho para telas menores */
+    .navbar-brand img {
+        height: 45px !important;
+    }
+
+    .nav-link {
+        font-size: 1.1rem !important;
+        margin: 10px 0 !important;
+        text-align: center;
+    }
+
+    /* Garante que as colunas ocupem a largura total e se empilhem */
+    .col-sm-8, .col-sm-4, .col-md-4 {
+        width: 100% !important;
+        max-width: 100% !important;
+        flex: 0 0 100% !important;
+    }
+
+    /* Reduz o efeito de salto no mobile para evitar problemas com o toque */
+    .card:hover, .social-icon:hover {
+        transform: translateY(-5px) scale(1.01) !important;
+    }
+
+    /* Ajuste das imagens dos cards no mobile */
+    .card img.rounded.mb-4 {
+        height: 200px !important;
+    }
+}
+
+/* Ajuste para telas muito pequenas (iPhone SE, etc) */
+@media (max-width: 480px) {
+    .navbar-brand span {
+        font-size: 1.1rem !important;
+    }
+    
+    .hero-banner img {
+        max-height: 250px !important;
+    }
+}
