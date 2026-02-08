@@ -348,3 +348,82 @@ hr {
     color: var(--text-light) !important;
     border-color: var(--border-color) !important;
 }
+
+/* 
+   ETAPA 3: ESTRUTURA, MARGENS E CARDS (ATUALIZADO)
+   ================================================== 
+*/
+
+/* 3.1 Margens de 15% a 20% e Centralização */
+.container, .hero-banner, .post-container {
+    max-width: 85% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+@media (min-width: 1200px) {
+    .container, .hero-banner, .post-container {
+        max-width: 80% !important;
+    }
+}
+
+/* 3.2 Padronização do Banner da Home */
+.hero-banner img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 400px !important;
+    object-fit: cover !important;
+    border-radius: 20px !important;
+    border: 1px solid var(--border-color);
+    margin-bottom: 3rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* 3.3 Cards de Projetos com Efeito de Salto */
+.card {
+    background-color: var(--hover-color) !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: 15px !important;
+    overflow: hidden;
+    transition: all var(--transition-speed) ease-in-out !important;
+    height: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover {
+    transform: translateY(-15px) scale(1.03) !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6) !important;
+    border-color: var(--accent-cyan) !important;
+    z-index: 10;
+}
+
+/* 3.4 Padronização "Inquebrável" de Imagens */
+
+/* Forçamos o container a ter altura fixa */
+.img-container {
+    width: 100% !important;
+    height: 220px !important;
+    overflow: hidden !important;
+    position: relative !important;
+    border-radius: 15px 15px 0 0 !important;
+}
+
+/* A imagem preenche o container sem distorcer */
+.card-img-standard {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+}
+
+/* Remove qualquer margem ou linha de base do link */
+.card-image-link {
+    display: block !important;
+    line-height: 0 !important;
+    text-decoration: none !important;
+}
+
