@@ -294,3 +294,57 @@ hr {
 .rightborder {
     border-right: 1px solid var(--border-color) !important;
 }
+
+/* 
+   ETAPA 2: CABEÇALHO, ÍCONES E MENUS
+   ================================================== 
+*/
+
+/* 2.1 Aumentar Cabeçalho e Logo */
+.navigation-wrap {
+    padding: 20px 0 !important; /* Aumenta a altura da barra */
+    background-color: var(--primary-dark) !important;
+}
+
+.navbar-brand img {
+    height: 55px !important; /* Logo maior (era 40px) */
+    transition: transform var(--transition-speed);
+}
+
+.nav-link {
+    font-size: 1.2rem !important; /* Texto do menu maior */
+    margin: 0 15px !important;
+    color: var(--text-light) !important;
+}
+
+.nav-link:hover {
+    color: var(--accent-cyan) !important;
+    transform: translateY(-2px); /* Leve subida no menu */
+}
+
+/* 2.2 Ícones Sociais com Efeito de Salto */
+.social-icon {
+    display: inline-flex !important;
+    margin: 0 12px !important;
+    transition: all var(--transition-speed) !important;
+    color: var(--text-light) !important;
+}
+
+.social-icon svg {
+    width: 26px !important; /* Ícones maiores (era 19px) */
+    height: 26px !important;
+    fill: currentColor;
+}
+
+/* O EFEITO DE SALTO SOLICITADO */
+.social-icon:hover {
+    transform: scale(1.3) translateY(-5px) !important; 
+    color: var(--accent-cyan) !important;
+    opacity: 1 !important;
+}
+
+/* Ajuste para o botão de menu no celular (hambúrguer) */
+.navbar-toggler {
+    color: var(--text-light) !important;
+    border-color: var(--border-color) !important;
+}
