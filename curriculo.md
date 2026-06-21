@@ -80,4 +80,4 @@ Concluído!
 • **E-mail:** rony.vonn977@gmail.com  
 • **LinkedIn:** [linkedin.com/in/rony-vonn-costa-603697261](https://www.linkedin.com/in/rony-vonn-costa-603697261/)  
 • **GitHub:** [github.com/ronycosta01](https://github.com/ronycosta01)  
-• **Telefone/WhatsApp:** (61) 98177-9401
+• **Telefone/WhatsApp:** (61) 996403264
