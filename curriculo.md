@@ -67,7 +67,7 @@ Concluído!
 
 ### **Habilidades**
 
-• **Linguagens de Programação:** Python, Java.  
+• **Linguagens de Programação:** Python, R.  
 • **Frameworks/Bibliotecas:** Pandas, Selenium.  
 • **Bancos de Dados:** SQL Server, MySQL.  
 • **Ferramentas/Tecnologias:** Git, Power BI, Excel, TOTVS RM.  
